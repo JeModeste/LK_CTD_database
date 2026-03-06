@@ -8,7 +8,7 @@ Created on Tue Mar 29 11:00:10 2022
 import os
 import pandas as pd
 
-directory = "../data/Level0/"
+directory = "../data/ctd/Level0/"
 metadata = '../data/meta_data/0_CTD information_2008-2022_ms_221201.xlsx'
 
 columns = ["Campaign_number:", "Profile_count:", "Profile:", "date:", "Latitude_S_(digital):", "Longitude_E_(digital):",
